@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jwnw"
+  id="myeclipse.1445438985151"
+  context-root="/"
+  j2ee-spec="5.0"
+  archive="jwnw.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebContent" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,3 @@
+	自定义标签类所属包com.jeecms.cms.action.directive 
+	标签类需要实现Freemarker内置接口TemplateDirectiveModel  	
+	获取标签参数可以用DirectiveUtils工具类获取
